@@ -1,0 +1,19 @@
+{
+    "name": "bebee/bebee-header-menu",
+    "description": "Menu do header na BeBee",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "BeBee\\BeBeeHeaderMenu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leandro santos"
+        }
+    ],
+    "require": {
+        "php" : ">=7.4"
+    }
+}
