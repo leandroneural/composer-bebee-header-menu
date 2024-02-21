@@ -6,7 +6,16 @@
 
 Esta aplicação é apenas um exemplo para testes de criação de biblitecas para aplicações BeBee
 
+## Instalação
 
+Para instalar execute o comando abaixo:
+
+```shell
+ composer require bebee/bebee-header-menu
+ ```
+
+
+## Exemplo 
 ```php
  <?php
  
